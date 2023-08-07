@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "paper": "^0.12.16",
+    "sjcl-full": "^1.0.0"
+  }
+}
